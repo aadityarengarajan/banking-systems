@@ -1,0 +1,9 @@
+{
+	"name" : "Banking Projects",
+	"description" : "Banking System - School Based Projects",
+	"created" : "15/9/2020",
+	"completed" : "true",
+	"modules" : ["os"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "BA-15092020-170512"
+}
